@@ -1,3 +1,3 @@
-# ISSAC-WEB
-### Deploy : http://theissac.pythonanywhere.com/
-##### API : http://theissacapi.pythonanywhere.com/issac/question
+# Issac Answer Engine
+##### :link: Answer Engine : http://theissac.pythonanywhere.com/
+##### :link: Answer_Engine_API : http://theissacapi.pythonanywhere.com/issac/question
